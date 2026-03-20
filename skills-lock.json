@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "cloud-architect": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "855f644ba292c6450e7c252cf77b5cc4d1acbb0621b02c96bd4d54e42a9cf8fe"
+    },
+    "cloud-devops": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "c3ecff5b8cfd6f89dc2eff284135aadf9ebf0851b0dca6c4c5dff2ad5710f0ea"
+    },
+    "database-design": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "7d4589f87d2d9d07f0b32d3c71292219849f0d55a9301814db4044faf837ef4f"
+    },
+    "devops-iac-engineer": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "ba3dcc60a63c78afdacb3093b65e94a32932af8ea652822c7ebdecaac2823a0a"
+    },
+    "git-advanced-workflows": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "c42c3059154889e4f80818407c6634197eefe87dc752d6a0cad8cfc2391550bb"
+    },
+    "github-actions-templates": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "8604814828637308a8cdc45c53e647f0029395328184937312330e4b8e8c587f"
+    },
+    "gitlab-ci-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "3491c468d0bf90ddf274a41a0a62539f6ce17cbcce0d5a9f268f24065f565d72"
+    },
+    "gitops-workflow": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "e8df22024090440fce624e6a99faca4b66aa267a428b5a63a0c0416fa4eb2629"
+    },
+    "grafana-dashboards": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "e9b692daf06faf96fa28b2b98f50b362e68b974db5ab503963a610c719cda79b"
+    },
+    "senior-architect": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "55ababe42669b8a2a8d0cffa06fa977b63cde5ec3a19767c552cde056790263b"
+    },
+    "senior-devops": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "1e0472ec40916aeed3cdab8a1290aef4739a7e50f883e6a984bb5e03d1e69dd7"
+    },
+    "slo-implementation": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "42401f6f1039dcf20db7c872135632ed7725a4dbdfa840e03d72c51eae7ae0b1"
+    }
+  }
+}
